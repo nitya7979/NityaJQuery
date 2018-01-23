@@ -1,0 +1,2 @@
+# NityaJQuery
+Practice of Jquery
